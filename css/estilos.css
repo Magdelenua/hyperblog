@@ -1,12 +1,3 @@
-
-body{
-	color: #333;
-	text-align: center;
-	font-family: 'Courier New', Courier, monospace;
-	font-size: 16px;
-	margin: 0;
-	padding: 0;
-}
 body
 {
     color: #333;
@@ -15,7 +6,6 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
-
 }
 
 #cabecera
